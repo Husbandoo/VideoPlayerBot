@@ -40,7 +40,7 @@ async def start(client, message):
                 InlineKeyboardButton("Close", callback_data="close"),
             ],
             [
-               InlineKeyboardButton("➕ ADD Me To Your Group ➕", url=f"https://t.me/{USERNAME}?startgroup=true"),
+               InlineKeyboardButton("➕ Add Me To Your Group ➕", url=f"https://t.me/{USERNAME}?startgroup=true"),
             ]
             ]
    reply_markup = InlineKeyboardMarkup(buttons)
