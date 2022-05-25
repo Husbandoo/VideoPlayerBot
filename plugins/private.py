@@ -33,7 +33,7 @@ async def start(client, message):
             ],
             [
                 InlineKeyboardButton("📢 Channel", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                InlineKeyboardButton("Source📦", url=f"https://github.com/AsmSafone/VideoPlayerBot"),
+                InlineKeyboardButton("Source📦", url=f"https://t.me/NexusXSupport/12582"),
             ],
             [
                 InlineKeyboardButton("🤖 About", callback_data="about"),
@@ -93,7 +93,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton("📢 Channel", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                InlineKeyboardButton("Source 📦", url=f"https://github.com/AsmSafone/VideoPlayerBot"),
+                InlineKeyboardButton("Source 📦", url=f"https://t.me/NexusXSupport/12582"),
             ],
             [
                 InlineKeyboardButton("🤖 About", callback_data="about"),
