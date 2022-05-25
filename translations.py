@@ -3,7 +3,7 @@ from helpers.bot_utils import BOT_NAME, USERNAME
 from pyrogram.types import Message
 
 
-START_TEXT = f"👋🏻 **Hello** , \n\nI am **{BOT_NAME}** \n\n✿ I'm An Anime Themed Multi-Featured Video Player Bot Who Can Stream Lives Radios , YouTube Videos & Telegram Audio! ✿"
+START_TEXT = f"**Hello , I am {BOT_NAME}** \n\n✿ I'm An Anime Themed Multi-Featured Video Player Bot Who Can Stream Lives Radios , YouTube Videos & Telegram Audio! ✿"
 HELP_TEXT = f"""
 🛠-- **Setting Up Bot**:--
 
