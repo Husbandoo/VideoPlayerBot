@@ -2,7 +2,7 @@ from config import ASSISTANT_NAME
 from helpers.bot_utils import BOT_NAME, USERNAME
 
 
-START_TEXT = f"👋🏻 **Matte Matte** {message.from_user.first_name} **- San! ♡** , \nThis is **{BOT_NAME}** \nI Can Stream Lives, Radios, YouTube Videos & Telegram Audio / Video Files On Voice Chat Of Telegram Groups. Let's Enjoy Cinematic View Of Group Video Player With Your Friends !"
+START_TEXT = f"👋🏻 **Matte Matte** {message.from_user.first_name} **- San! ♡** , \n\nI am **{BOT_NAME}** \n\n✿ I'm An Anime Themed Multi-Featured Video Player Bot Who Can Stream Lives Radios , YouTube Videos & Telegram Audio! ✿
 HELP_TEXT = f"""
 🛠-- **Setting Up Bot**:--
 
